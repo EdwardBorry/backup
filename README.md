@@ -1,6 +1,6 @@
-[![Windows](https://img.icons8.com/ios/50/000000/windows-10.png)](https://www.microsoft.com/windows)
-[![macOS](https://img.icons8.com/ios/50/000000/mac-os.png)](https://www.apple.com/macos/)
-[![Linux](https://img.icons8.com/ios/50/000000/linux.png)](https://www.linux.org/)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Используются иконки с icons8.com — плоские, без блестящих эффектов.
 
