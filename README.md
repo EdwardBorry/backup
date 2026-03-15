@@ -1,6 +1,8 @@
-![Windows](https://img.shields.io/badge/Windows-supported-blue?logo=windows)
-![macOS](https://img.shields.io/badge/macOS-supported-black?logo=apple)
-![Linux](https://img.shields.io/badge/Linux-supported-yellow?logo=linux)
+[![Windows](https://img.icons8.com/ios/50/000000/windows-10.png)](https://www.microsoft.com/windows)
+[![macOS](https://img.icons8.com/ios/50/000000/mac-os.png)](https://www.apple.com/macos/)
+[![Linux](https://img.icons8.com/ios/50/000000/linux.png)](https://www.linux.org/)
+
+Используются иконки с icons8.com — плоские, без блестящих эффектов.
 
 # Encrypted backup using restic
 
