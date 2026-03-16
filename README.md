@@ -2,8 +2,6 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Используются иконки с icons8.com — плоские, без блестящих эффектов.
-
 # Encrypted backup using restic
 
 ## Simple guide for different data backup using a wonderful tool called restic. I'll show you how to make an ecrypted backup from scratch in external storage (HDD, SSD...) and also in a real computer (using SSH).
