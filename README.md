@@ -4,7 +4,7 @@
 
 # Encrypted backup using restic
 
-## Simple guide for different data backup using a tool called restic. I'll show you how to make an ecrypted backup from scratch in external storage (HDD, SSD...) and also in a real computer.
+Simple guide for different data backup using a tool called restic. I'll show you how to make an ecrypted backup from scratch in external storage (HDD, SSD...) and also in a real computer.
 
 ## Required things for storage device:
 * Any external device (storage), whether HDD (including SATA), SSD, flashdrive etc...
